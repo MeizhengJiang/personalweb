@@ -5,6 +5,7 @@ export default function Navbar() {
 
   const links = [
     { path: '/', label: 'Home' },
+    { path: '/games', label: 'Games' },
     { path: '/art', label: 'Art' },
   ];
 
